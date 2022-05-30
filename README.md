@@ -6,4 +6,4 @@ For more information on this particular analysis, refer to the included paper.
 
 <!-- ![Feed Forward Loop diagram](/FFLdiagram.jpg)
  -->
-<img src="/FFLdiagram.jpg" width="70px" height="200px" alt="Feed Forward Loop diagram">
+<img src="/FFLdiagram.jpg" width="80px" height="200px" alt="Feed Forward Loop diagram">
