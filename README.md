@@ -4,4 +4,6 @@ This work focuses on the numerical analysis of genetic networks in yeast and eco
 
 For more information on this particular analysis, refer to the included paper.
 
-![Feed Forward Loop diagram](/FFLdiagram.jpg)
+<!-- ![Feed Forward Loop diagram](/FFLdiagram.jpg)
+ -->
+<img src="/FFLdiagram.jpg" width="80px" height="200px" alt="Feed Forward Loop diagram">
